@@ -1,0 +1,6 @@
+name: Website
+title: "Dylan Widecki's Website"
+description: "A website that gives some information about myself"
+plugins:
+  - jemoji
+theme: jekyll-theme-midnight
