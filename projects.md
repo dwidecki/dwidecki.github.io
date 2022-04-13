@@ -13,5 +13,4 @@ This is a short program that I collaborated on with a team member that imitates 
 The URL for the repo is -- https://github.com/dwidecki/vendingMachine
 
 # Back to Home:
-
 https://dwidecki.github.io/

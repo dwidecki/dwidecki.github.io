@@ -1,6 +1,5 @@
 # Welcome to my about page!
 ![Dylan](./images/dylan.jpg)
-
 # Current Schooling:
 
 Currently I am attending Quinnipiac University. I am a Computer Science major with a minor in Business.
@@ -12,20 +11,22 @@ What got me into the computer science field was my passion for technology all th
 # Current Work Experience:
 
 Leveler, Pat’s Marketplace – 2018 – 2020
-•	My job included restocking and neatening up each aisle of the grocery store as well as answering questions and helping customers throughout the day.
-•	Reason for leaving: COVID-19, College
+My job included restocking and neatening up each aisle of the grocery store as well as answering questions and helping customers throughout the day.
+Reason for leaving: COVID-19, College
 
 Pro Sales Associate, The Home Depot –	2021 – 2022
-•	My job includes consulting with contractors on a daily basis and creating orders, deliveries and will calls based on their needs as well as conducting phone sales.
-•	Currently employed
+My job includes consulting with contractors on a daily basis and creating orders, deliveries and will calls based on their needs as well as conducting phone sales.
+Currently employed
 
 # Interests:
 
-•	Playing Soccer
-•	Playing and watching Hockey
-•	Watching movies (my favorite is Miracle)
-•	Listening to music (my favorite artist is Post Malone)
+Playing Soccer
+Playing and watching Hockey
+Watching movies (my favorite is Miracle)
+Listening to music (my favorite artist is Post Malone)
+Playing with my dog Bailey
+
+![Bailey](./images/bailey.jpg)
 
 # Back to Home:
-
 https://dwidecki.github.io/

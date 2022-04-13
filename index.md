@@ -4,8 +4,8 @@ Welcome to my website!
 
 # Learn more about me here!
 
-https://github.com/dwidecki/dwidecki.github.io/blob/master/about.md
+https://dwidecki.github.io/about
 
 # Check out my recent projects here!
 
-https://github.com/dwidecki/dwidecki.github.io/blob/master/projects.md
+https://dwidecki.github.io/projects
