@@ -28,4 +28,4 @@ Playing with my dog Bailey
 
 ![Bailey](./images/bailey.jpg)
 
-[Home](https://dwidecki.github.io/ 'Back to Home')
+[Back to Home](https://dwidecki.github.io/ 'Back to Home')
