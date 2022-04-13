@@ -20,10 +20,10 @@ Currently employed
 
 # Interests:
 
-Playing Soccer
-Playing and watching Hockey
-Watching movies (my favorite is Miracle)
-Listening to music (my favorite artist is Post Malone)
+Playing Soccer,
+Playing and watching Hockey,
+Watching movies (my favorite is Miracle),
+Listening to music (my favorite artist is Post Malone),
 Playing with my dog Bailey
 
 ![Bailey](./images/bailey.jpg)
