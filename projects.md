@@ -9,3 +9,7 @@ The URL for the repo is -- https://github.com/mattcmerritt/Team-A1-SER-225-Game
 
 # Vending Machine
 This is a short program that I collaborated on with a team member that imitates the process of using a vending machine such as choosing a snack, computing a total, cancel/confirm transactions. This program was written entirely in Java. I enjoyed this project because I feel the way my team member and I alternated through the tasks we wanted to implement was seamless.
+
+# Back to Home:
+
+https://dwidecki.github.io/
