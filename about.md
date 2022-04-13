@@ -1,4 +1,5 @@
 # Welcome to my about page!
+![Dylan](./images/dylan.jpg)
 
 # Current Schooling:
 
